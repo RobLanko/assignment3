@@ -1,0 +1,37 @@
+console.log("Script")
+var clientName=//initialization
+clientName="Gary";//assign
+var clientName="Corey";
+var kids=10
+var partnername="Chris"
+var GeoLoc="Ohio"
+var job="Software Developer"
+var email=" rotu2021@gmail.com "
+var password="abc123"
+var age=26
+var country="USA"
+var salary= 3000;
+var Name="Robert"
+
+console.log(clientName);
+
+let product="Computer"
+product="Tablet"
+//let product="iPhone";
+console.log(product);
+const taxes=11;
+console.log(taxes);
+
+console.log("You will be a " + job + " In the State of "+ GeoLoc + " and married to " + partnername + " with " + kids + " kids ");
+console.log( Name + email +  salary * 12)
+for(var i=1;i<=10;i+2){
+    console.log(i);
+}
+
+var kids=10;
+if(10==kids){
+    console.log("true")
+}
+else{
+    console.log("False")
+}
