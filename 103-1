@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS Session 1</title>
+</head>
+<body>
+    <h1>JavaScript</h1>
+
+    <!--script>
+        document.write("This is for the user")
+
+        console.log("This is for the developer to see")
+        console.log(10+5)
+        console.warn("This is a warning")
+        console.error("Alert this is an error")
+        console.timeEnd("timer")
+
+    </script>-->
+    <script src="script.js">
+
+
+    </script>
+</body>
+</html>
